@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository. <br>
-Author - Gaganpreet Singh
+Author - Gagan (Apna College)
